@@ -1,2 +1,2 @@
 # talk
-Talk about node
+Talk about node in issue
